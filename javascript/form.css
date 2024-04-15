@@ -1,0 +1,11 @@
+.form-grp.error p{
+    color: red;
+} 
+
+.form-grp.error input{
+    border: 2px solid red;
+}
+
+.form-grp.success input{
+    border: 2px solid green;
+}
